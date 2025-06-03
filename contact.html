@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ro">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact - Prestige Motors</title>
+  </head>
+  <body
+    style="margin: 0; display: flex; flex-direction: column; min-height: 100vh"
+  >
+    <header>
+      <nav style="text-align: center; margin: 10px 0">
+        <a href="index.html" style="margin-right: 15px">Home</a>
+        <a href="details.html" style="margin-right: 15px">Details</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </header>
+    <main style="flex: 1; padding: 20px">
+      <h1>Contact Us</h1>
+      <form action="#" method="post">
+        <label for="firstName">First Name:</label><br />
+        <input
+          type="text"
+          id="firstName"
+          name="firstName"
+          style="width: 100%; max-width: 400px; margin-bottom: 15px"
+          required
+        /><br />
+
+        <label for="lastName">Last Name:</label><br />
+        <input
+          type="text"
+          id="lastName"
+          name="lastName"
+          style="width: 100%; max-width: 400px; margin-bottom: 15px"
+          required
+        /><br />
+
+        <label for="email">Email:</label><br />
+        <input
+          type="email"
+          id="email"
+          name="email"
+          style="width: 100%; max-width: 400px; margin-bottom: 15px"
+          required
+        /><br />
+
+        <label for="message">Message:</label><br />
+        <textarea
+          id="message"
+          name="message"
+          rows="5"
+          style="width: 100%; max-width: 400px; margin-bottom: 15px"
+          required
+        ></textarea
+        ><br />
+
+        <button
+          type="submit"
+          style="
+            background-color: black;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+          "
+        >
+          Send
+        </button>
+      </form>
+    </main>
+    <footer
+      style="
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 10px;
+        margin-top: auto;
+      "
+    >
+      <p>&copy; 2024 Prestige Motors. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
