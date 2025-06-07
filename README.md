@@ -21,17 +21,18 @@ An elegant car showcase built entirely with **HTML5**, featuring premium vehicle
 
 ---
 
-## 🖼 Preview
+## 🖼️ Preview
 
-### Homepage  
+### Homepage
 Displays premium cars with brand, year, transmission, and pricing information.
 
-![Homepage Preview](images/preview-home.png)
+![Homepage Preview](preview-home.png)
 
-### Mercedes Detail Page  
+### Mercedes Detail Page
 Full-width image gallery and detailed specifications for the Mercedes-Benz S-Class.
 
-![Mercedes Page Preview](images/preview-mercedes.png)
+![Mercedes Page Preview](preview-mercedes.png)
+
 
 ---
 
