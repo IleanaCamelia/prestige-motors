@@ -39,7 +39,7 @@ Full-width image gallery and detailed specifications for the Mercedes-Benz S-Cla
 ## 👩‍💼 Author  
 **Camelia Cilioaica**  
 Mallorca, Spain  
-[cilioaica.camelia84@gmail.com](mailto:cilioaica.camelia@gmail.com)
+[cilioaica.camelia@gmail.com](mailto:cilioaica.camelia@gmail.com)
 
 ---
 
